@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "docs:dev",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "vitepress: dev",
+            "detail": "vitepress build src"
+        }
+    ]
+  }
