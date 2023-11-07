@@ -5,7 +5,6 @@ export default defineConfig({
     lang: "ru-RU",
     title: "Главная",
     description: "Консультации, Обучение, Архитектура, Разработка, Программирование",
-
     themeConfig: {
         siteTitle: "Никита",
         // https://vitepress.dev/reference/default-theme-config

@@ -7,7 +7,7 @@ hero:
   text: Software Architect
   tagline: Разрабатываю системы обработки больших данных с 2010 года
   image:
-    src: /imgs/me.jpg
+    src: /me.jpg
     alt: author
   actions:
     - theme: brand

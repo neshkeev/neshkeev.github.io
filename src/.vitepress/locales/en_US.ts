@@ -5,7 +5,6 @@ export default defineConfig({
     lang: "en-US",
     title: "Home",
     description: "Consulting, Mentoring, Software Development, System Design",
-
     themeConfig: {
         siteTitle: "Nikita",
         // https://vitepress.dev/reference/default-theme-config

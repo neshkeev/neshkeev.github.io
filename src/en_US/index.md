@@ -7,7 +7,7 @@ hero:
   text: Software Architect
   tagline: I've been building Big Data solutions since 2010
   image:
-    src: ../imgs/me.jpg
+    src: /me.jpg
     alt: author
   actions:
     - theme: brand
